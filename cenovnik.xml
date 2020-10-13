@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kolaci>
+    <kolac>
+        <naziv>Bambino</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>170 dinara</cena>
+        <opis>Slatka pavlaka umućena sa plazma keksom, šlag krem i korice sa orahom natopljene čokoladnim mlekom.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Prinzec krofne</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>240 dinara</cena>
+        <opis>Čuvena poslastica, bogatog kremastog ukusa, punjena domaćim kuvanim kremom, sa ukusom vanile.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Breskve</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>150 dinara</cena>
+        <opis>Domaći mekani kolač sa džemom i orasima.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Padobranci</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>170 dinara</cena>
+        <opis>Hrskavi kolač sa čokoladnim filom i ukusom oraha.</opis>
+    </kolac>
+	
+	
+    <kolac>
+        <naziv>London kocka</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>250 dinara</cena>
+        <opis>Kombinacija biskvitnog testa, fila, sa orasima i pomorandžom.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Gurabije</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>210 dinara</cena>
+        <opis>Hrskav kolač sa ukusom badema i aromom limuna.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Zarbo kocka</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>250 dinara</cena>
+        <opis>Kombinacija biskvitnog testa, džema, oraha, cimeta, čokolade.</opis>
+    </kolac>
+	
+    <kolac>
+        <naziv>Pivarice</naziv>
+        <kolicina>1 komad</kolicina>
+        <cena>300 dinara</cena>
+        <opis>Sočan domaći kolač sa orahom i pivom.</opis>
+    </kolac>
+
+</kolaci>
